@@ -1,0 +1,15 @@
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\The-Real-Cautious-Invention.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\The-Real-Cautious-Invention.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\MessAroundApp.Properties.Resources.resources
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\The-Real-Cautious-Invention.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\The-Real-Cautious-Invention.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\MessAroundApp.exe
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\MessAroundApp.pdb
+D:\Visual Studio\Projects\MessAroundApp\Builds\MessAroundApp.exe.config
+D:\Visual Studio\Projects\MessAroundApp\Builds\MessAroundApp.exe.manifest
+D:\Visual Studio\Projects\MessAroundApp\Builds\MessAroundApp.application
+D:\Visual Studio\Projects\MessAroundApp\Builds\MessAroundApp.exe
+D:\Visual Studio\Projects\MessAroundApp\Builds\MessAroundApp.pdb
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\MessAroundApp.Form1.resources
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\MessAroundApp.exe.manifest
+D:\Visual Studio\Projects\MessAroundApp\MessAroundApp\obj\Debug\MessAroundApp.application
